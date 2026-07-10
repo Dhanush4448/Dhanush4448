@@ -1,12 +1,12 @@
 # Dhanush Neelakantan
 
-Backend/data engineer. M.S. Computer Science from George Mason University. I build systems that ingest, index, and make sense of large amounts of data — mostly with Python, FastAPI, Postgres, and whatever LLM tooling actually earns its place in the stack.
+Backend/data engineer. M.S. Computer Science from George Mason University. I build systems that ingest, index, and make sense of large amounts of data - mostly with Python, FastAPI, Postgres, and whatever LLM tooling actually earns its place in the stack.
 
 [LinkedIn](https://www.linkedin.com/in/dhanush-neelakantan-15b4481bb/) · dhanushneelakantan2002@gmail.com
 
 ## What I've built
 
-**VisaTrack** — [visatrack.vercel.app](https://visatrack.vercel.app)
+**VisaTrack** - [visatrack.vercel.app](https://visatrack.vercel.app)
 Pulled all publicly available DOL LCA filings (403K+ records) into Postgres and built semantic search over them using pgvector with HNSW indexing, so you can ask plain-language questions about H-1B sponsorship instead of digging through raw government spreadsheets. FastAPI backend, Next.js frontend, Groq for the LLM layer. Ingestion re-runs itself quarterly via GitHub Actions when DOL publishes new data.
 
 **LegacyLens**
