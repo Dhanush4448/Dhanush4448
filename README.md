@@ -2,7 +2,7 @@
 
 Backend/data engineer. M.S. Computer Science from George Mason University. I build systems that ingest, index, and make sense of large amounts of data — mostly with Python, FastAPI, Postgres, and whatever LLM tooling actually earns its place in the stack.
 
-[LinkedIn](https://www.linkedin.com/in/dhanush-neelakantan-15b4481bb/) · your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/dhanush-neelakantan-15b4481bb/) · dhanushneelakantan2002@gmail.com
 
 ## What I've built
 
