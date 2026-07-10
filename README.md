@@ -27,4 +27,4 @@ Python, FastAPI, PostgreSQL/pgvector, Next.js, Docker, GCP/GKE, LangChain/LangGr
 
 ## Right now
 
-Finishing up my M.S. and looking for full-time roles in data engineering, backend, or applied ML/AI engineering — open to the US or India. If any of the above is relevant to something you're hiring for, my LinkedIn is the fastest way to reach me.
+Completed my M.S. and looking for full-time roles in data engineering, backend, or applied ML/AI engineering — open to the US. If any of the above is relevant to something you're hiring for, my LinkedIn is the fastest way to reach me.
